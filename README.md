@@ -6,3 +6,11 @@ PAXA has been developed using the XuiAPI and with the help of Node.js, React.js,
 ##  Written Codes
  - [BackEnd with NodeJs](https://github.com/hossein-rg)
  - [FrontEnd with ReactJs](https://github.com/hossein-rg)
+
+
+## Features
+- Public users’ access to their panel for viewing volume, expiration date, package extension, and more.
+- Smart panel with features for adding users, editing users, and deleting users, all with customization capabilities.
+- A main panel for managing admin inventories, transactions performed in the panels, and full access as a superuser.
+- Purchasing products with callback capability through an intermediary gateway that supports digital currencies.
+- and many more ...

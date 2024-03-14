@@ -3,9 +3,11 @@
 This project has been developed with the help of the XUI application programming interface (API). Now, let's continue exploring this project in more detail.
 PAXA has been developed using the XuiAPI and with the help of Node.js, React.js, MongoDB and SQLite.
 
+
 ##  Written Codes
  - [BackEnd with NodeJs](https://github.com/hossein-rg)
  - [FrontEnd with ReactJs](https://github.com/hossein-rg)
+
 
 
 ## Features
@@ -14,3 +16,19 @@ PAXA has been developed using the XuiAPI and with the help of Node.js, React.js,
 - A main panel for managing admin inventories, transactions performed in the panels, and full access as a superuser.
 - Purchasing products with callback capability through an intermediary gateway that supports digital currencies.
 - and many more ...
+
+
+# Release
+Coming Soon ...
+
+
+## FAQ
+#### Can I purchase a panel or configuration from you?
+
+You can visit our website [PaxaShop](https://paxa.bio/shop/)
+
+
+# Autor and Developer
+[Hossein](https://github.com/hossein-rg)
+# DevOps Developer
+[Majid]()

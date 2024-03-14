@@ -1,4 +1,4 @@
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/hossein-rg/xui-paxa?tab=Unlicense-1-ov-file)
+[![License](https://img.shields.io/badge/License-Unlicense-green.svg)](https://github.com/hossein-rg/xui-paxa?tab=Unlicense-1-ov-file)
 # XUI-PAXA
 This project has been developed with the help of the XUI application programming interface (API). Now, let's continue exploring this project in more detail.
 PAXA has been developed using the XuiAPI and with the help of Node.js, React.js, MongoDB and SQLite.

@@ -6,7 +6,7 @@ PAXA has been developed using the XuiAPI and with the help of Node.js, React.js,
 
 ##  Written Codes
  - [BackEnd with NodeJs](https://github.com/hossein-rg)
- - [FrontEnd with ReactJs]([https://github.com/hossein-rg](https://github.com/hossein-rg/FrontEndPaxa))
+ - [FrontEnd with ReactJs](https://github.com/hossein-rg/FrontEndPaxa)
 
 
 

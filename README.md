@@ -25,7 +25,7 @@ Coming Soon ...
 ## FAQ
 #### Can I purchase a panel or configuration from you?
 
-You can visit our website [PaxaShop](https://paxa.bio/shop/)
+You can visit our website [PaxaShop](https://paxa.pro)
 
 
 # Autor and Developer
